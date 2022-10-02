@@ -8,7 +8,7 @@ int random_number(){
 
 srand(time(0));
 
-return (rand() % 3);
+return (rand() % 33);
 
 
 }
